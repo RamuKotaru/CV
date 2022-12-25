@@ -53,7 +53,7 @@ a:hover{
 .upper-cloud{
     position: absolute;
     left:300px;
-    bottom:300px;
+    top:300px;
 }
 .skill{
     width:100px;
